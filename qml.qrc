@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/animationTest.qml</file>
+        <file>images/11.jpg</file>
+        <file>images/12.jpg</file>
+        <file>images/13.jpg</file>
+    </qresource>
+</RCC>
